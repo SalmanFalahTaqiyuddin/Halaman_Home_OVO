@@ -1,5 +1,5 @@
 # 🎨 OVO Home Page Clone 💸
-
+Halo! 👋 Proyek ini adalah kloning dari halaman Home aplikasi OVO yang dibangun dengan Flutter. Tujuannya adalah untuk mendemonstrasikan bagaimana Flutter bisa digunakan untuk membuat antarmuka pengguna yang kompleks, dinamis, dan responsif, mirip dengan aplikasi aslinya.
 A new Flutter project.
 
 ## Getting Started
